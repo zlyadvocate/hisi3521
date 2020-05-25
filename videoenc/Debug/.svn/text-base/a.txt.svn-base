@@ -1,0 +1,79 @@
+Building file: ../src/fbsetting.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fbsetting.d" -MT"src/fbsetting.d" -o "src/fbsetting.o" "../src/fbsetting.c"
+Finished building: ../src/fbsetting.c
+ 
+Building file: ../src/osdtime.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/osdtime.d" -MT"src/osdtime.d" -o "src/osdtime.o" "../src/osdtime.c"
+Finished building: ../src/osdtime.c
+ 
+Building file: ../src/venc.cpp
+Invoking: Cross G++ Compiler
+arm-hisiv100-linux-uclibcgnueabi-g++ -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/venc.d" -MT"src/venc.d" -o "src/venc.o" "../src/venc.cpp"
+Finished building: ../src/venc.cpp
+ 
+Building file: ../common/HI264RTPPACK.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/HI264RTPPACK.d" -MT"common/HI264RTPPACK.d" -o "common/HI264RTPPACK.o" "../common/HI264RTPPACK.c"
+Finished building: ../common/HI264RTPPACK.c
+ 
+Building file: ../common/hi_faac.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/hi_faac.d" -MT"common/hi_faac.d" -o "common/hi_faac.o" "../common/hi_faac.c"
+Finished building: ../common/hi_faac.c
+ 
+Building file: ../common/loadbmp.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/loadbmp.d" -MT"common/loadbmp.d" -o "common/loadbmp.o" "../common/loadbmp.c"
+Finished building: ../common/loadbmp.c
+ 
+Building file: ../common/sample_comm_audio.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_audio.d" -MT"common/sample_comm_audio.d" -o "common/sample_comm_audio.o" "../common/sample_comm_audio.c"
+Finished building: ../common/sample_comm_audio.c
+ 
+Building file: ../common/sample_comm_sys.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_sys.d" -MT"common/sample_comm_sys.d" -o "common/sample_comm_sys.o" "../common/sample_comm_sys.c"
+Finished building: ../common/sample_comm_sys.c
+ 
+Building file: ../common/sample_comm_vda.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_vda.d" -MT"common/sample_comm_vda.d" -o "common/sample_comm_vda.o" "../common/sample_comm_vda.c"
+Finished building: ../common/sample_comm_vda.c
+ 
+Building file: ../common/sample_comm_vdec.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_vdec.d" -MT"common/sample_comm_vdec.d" -o "common/sample_comm_vdec.o" "../common/sample_comm_vdec.c"
+Finished building: ../common/sample_comm_vdec.c
+ 
+Building file: ../common/sample_comm_venc.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_venc.d" -MT"common/sample_comm_venc.d" -o "common/sample_comm_venc.o" "../common/sample_comm_venc.c"
+Finished building: ../common/sample_comm_venc.c
+ 
+Building file: ../common/sample_comm_vi.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_vi.d" -MT"common/sample_comm_vi.d" -o "common/sample_comm_vi.o" "../common/sample_comm_vi.c"
+Finished building: ../common/sample_comm_vi.c
+ 
+Building file: ../common/sample_comm_vo.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_vo.d" -MT"common/sample_comm_vo.d" -o "common/sample_comm_vo.o" "../common/sample_comm_vo.c"
+Finished building: ../common/sample_comm_vo.c
+ 
+Building file: ../common/sample_comm_vpss.c
+Invoking: Cross GCC Compiler
+arm-hisiv100-linux-uclibcgnueabi-gcc -I/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/include_hi3521 -I/usr/include/ffmpeg -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"common/sample_comm_vpss.d" -MT"common/sample_comm_vpss.d" -o "common/sample_comm_vpss.o" "../common/sample_comm_vpss.c"
+Finished building: ../common/sample_comm_vpss.c
+ 
+Building target: videoenc
+Invoking: Cross G++ Linker
+arm-hisiv100-linux-uclibcgnueabi-g++ -L/media/sf_shared/ffmpegbin/lib -L"/home/user/workspace/videoenc/lib" -L/home/user/work/Hi3521_SDK_V1.0.4.0/mpp/lib_hi3521 -o "videoenc"  ./src/fbsetting.o ./src/osdtime.o ./src/venc.o  ./common/HI264RTPPACK.o ./common/hi_faac.o ./common/loadbmp.o ./common/sample_comm_audio.o ./common/sample_comm_sys.o ./common/sample_comm_vda.o ./common/sample_comm_vdec.o ./common/sample_comm_venc.o ./common/sample_comm_vi.o ./common/sample_comm_vo.o ./common/sample_comm_vpss.o   -lmpi -lm -lhdmi -lpthread -lVoiceEngine -lsamplerate -lfaac -laec -ljpeg -lanr -lresampler -lavfilter -lswscale -lavformat -lavcodec -lavutil
+Finished building target: videoenc
+ 
+make --no-print-directory post-build
+copy App to targetFS
+cp videoenc /home/user/targetfs/avtest
+ 

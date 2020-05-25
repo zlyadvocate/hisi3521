@@ -1,0 +1,43 @@
+10
+
+dir
+913
+svn://192.168.1.177:2014/code/videostreamer/hi3521/streamer
+svn://192.168.1.177:2014
+
+
+
+2014-09-09T08:56:39.530588Z
+447
+wxb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b4d3ed43-895a-4ee4-a390-b5f233e45f66
+
+utils
+dir
+
+amf
+dir
+
+flv
+dir
+
+core
+dir
+
+videostreamer
+dir
+
